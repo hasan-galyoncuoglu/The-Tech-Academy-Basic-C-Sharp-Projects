@@ -1,5 +1,5 @@
 # The-Tech-Academy-Basic-C-Sharp-Projects
-## Project 1
+## Project 1The-Tech-Academy-Basic-C-Sharp-Project-1
 Your job is to create a console-based application for getting a shipping quote for a package.
 
 Requirements
